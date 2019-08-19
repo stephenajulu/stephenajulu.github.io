@@ -1,4 +1,4 @@
-# <img src="https://stephenajulu.github.io/img/favicon16.png"> Stephen Ajulu's Personal Portfoilio and CV Website <img src="https://stephenajulu.github.io/img/favicon16.png">
+# <img src="https://stephenajulu.com/v2/img/favicon16.png"> Stephen Ajulu's Personal Portfoilio and CV Website <img src="https://stephenajulu.com/v2/img/favicon16.png">
 ## I am using Kross Jekyll Theme
 
 Kross is a free responsive multi paged Jekyll theme, about you :wink:
