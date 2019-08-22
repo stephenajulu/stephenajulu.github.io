@@ -22,20 +22,22 @@ My goal is to spread cybersecurity, ethical hacking, privacy and anonymity aware
 I am currently most interested in web applications, networks, cybersecurity, ethical hacking, android and technology in general.
 
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others).
-Future Ventures (Teach myself in 2019)
 
-   Scalable distributed systems (infrastructure, networks, microservices)
-   Machine Learning/AI
-   Image/Video processing
-   Cyber Security
-   Ethical Hacking
-   File servers / personal datacenter / NAS
-   Blockchain
-   Embedded Systems (IoT)
-   Electrical engineering
-   Full Stack Development
-   Backend
-   Android app and Software Development
+Here is a list of things i want to teach myself in 2019
+
+- Scalable distributed systems (infrastructure, networks, microservices)
+- Machine Learning/AI
+- Image/Video processing
+- Cyber Security
+- Ethical Hacking
+- File servers / personal datacenter / NAS
+- Blockchain
+- Embedded Systems (IoT)
+- Electrical engineering
+- Full Stack Development
+- Backend
+- Android app and Software Development
+- French
    
 <p><br></p>
 
