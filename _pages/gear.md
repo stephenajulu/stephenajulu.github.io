@@ -6,9 +6,9 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-### Here's a list and specs of the things i use in my day to day life for work, personal projects and school.
+#### Here's a list and specs of the things i use in my day to day life for work, personal projects and school.
 
-## LAPTOP:
+#### LAPTOP:
 **HP Elitebook 840 G2(Matte Black)**
 - Intel Core i7 -5600U Processor clocked at 2.60GHz x 4
 - Intel HD 5500 Intergrated Graphics Card
@@ -21,7 +21,7 @@ signature: assets/images/about/signature.png
 <br>
 <br>
 
-## DESKTOP:
+#### DESKTOP:
 **HP Compaq Pro 6305 SFF**
 - AMD A10-5800B 3.8GHz x 4
 - 4 GB R.A.M
@@ -30,7 +30,7 @@ signature: assets/images/about/signature.png
 <br>
 <br>
 
-## PHONE: 
+#### PHONE: 
 **Nokia 6(Matte Black)**
 - Qualcomm Snapdragon 430 Processor clocked at 1.40GHz x 8
 - 4 GB R.A.M
@@ -41,7 +41,7 @@ signature: assets/images/about/signature.png
 <br>
 <br>
 
-## PERIPHERALS:
+#### PERIPHERALS:
 - Panda PAU05 for Wi-Fi pentesting(Not Working)
 - Ethernet cable
 - AUX cable
