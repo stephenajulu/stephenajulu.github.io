@@ -55,6 +55,7 @@ I can help you build yours.
 
  - **Jekyll keeps me on my toes** - Version 2 of my site had over 800 commits and it barely lasted 2 months. So 800 commits in 2 months. I have come to appreciate Liquid and markdown. The entire website is under my command! Bwahahaha! Basically i have full control. Admin privilages. Root Permision. I can remove things and add things. 
  
+ To summarize this with one sentence: **Jekyll on GitHub Pages with Cloudflare DNS is faster than Wordpress, cheaper than Squarespace, and is more professional than Wix.**
 <p><br></p>
 
 <button name="button" onclick="https://drive.google.com/file/d/1jYrPFdLm4Fw0Rc_mfBmhIe7UY4iLZIFA/view?usp=sharing">View My Résumé</button>
