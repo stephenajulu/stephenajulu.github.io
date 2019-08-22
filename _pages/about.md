@@ -24,22 +24,25 @@ I am currently most interested in web applications, networks, cybersecurity, eth
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others).
 Future Ventures (Teach myself in 2019)
 
-    Scalable distributed systems (infrastructure, networks, microservices)
-    Machine Learning/AI
-    Image/Video processing
-    Cyber Security
-    Ethical Hacking
-    File servers / personal datacenter / NAS
-    Blockchain
-    Embedded Systems (IoT)
-    Electrical engineering
-    Full Stack Development
-    Backend
-    Android app and Software Development
+   Scalable distributed systems (infrastructure, networks, microservices)
+   Machine Learning/AI
+   Image/Video processing
+   Cyber Security
+   Ethical Hacking
+   File servers / personal datacenter / NAS
+   Blockchain
+   Embedded Systems (IoT)
+   Electrical engineering
+   Full Stack Development
+   Backend
+   Android app and Software Development
+   
+<p><br></p>
 
-Go check out my blog [here](https://ajulusthoughts.wordpress.com). Topics range from Technology, Cybersecurity, Ethical Hacking, Privacy, Anonymity to Self Improvement, Career, Business, Fashion and Fitness
+Go check out my blog [here](https://ajulusthoughts.wordpress.com). Topics range from Technology, Cybersecurity, Ethical Hacking, Privacy, Anonymity to Self Improvement, Career, Business, Fashion and Fitness.
+
 <p><br></p>
-<p><br></p>
+
 #### ABOUT THIS WEBSITE
 This site is built on [Jekyll](https://jekyllrb.com/), the theme i am using is [Kross](https://github.com/themefisher/kross-jekyll-portfolio-template) from [Themefisher](https://themefisher.com/). It is responsive and mobile friendly. I am hosting it on [Github Pages](https://pages.github.com/) for free. I am using [Cloudflare](https://cloudflare.com) for it's Content Delivery Network, SSL(HTTPS), Caching, Auto minifying and DOS protection services. It's free. Icons are from [Themify](https://themify.me/themify-icons). Fonts are served through [Google Fonts](https://www.google.com/fonts). Got my Domain Name from [Namecheap](https://www.namecheap.com/). Forms built with [Formspree](https://formspree.io/) This is my third website. [Version 2](https://stephenajulu.com/v2). [Version 1](https://stephenajulu.com/v1). [Version 0](https://ajulusthoughts.wordpress.com)
 I can help you build yours. 
