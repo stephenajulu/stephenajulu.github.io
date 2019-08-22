@@ -17,12 +17,12 @@ signature: assets/images/about/signature.png
 - Running Windows 10 Professional Edition- This is my daily driver, i use it to surf, game, graphic and web design, pentest
 - Vmware Workstation with Kali Linux(Pentesting OS of choice), Ubuntu, Netcop, Metasploitable, Damn Vulnerable Machine, Window 7, Remix Os(android) and Linux Mint (You should know most of the OS listed here are for practising penetration testing and also for enjoyment)
 
-**HOME DESKTOP:** HP Compaq Pro 6305 SFF
+**DESKTOP:** HP Compaq Pro 6305 SFF
 - AMD A10-5800B 3.8GHz x 4
 - 4 GB R.A.M
 - 500 GB Internal HDD
 
-**ANDROID PHONE:** Nokia 6(Matte Black)
+**PHONE:** Nokia 6(Matte Black)
 - Qualcomm Snapdragon 430 Processor clocked at 1.40GHz x 8
 - 4 GB R.A.M
 - 64 GB Internal Storage
