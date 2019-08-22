@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Setup
+title: My Gear/Setup
 author: Stephen Ajulu
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
