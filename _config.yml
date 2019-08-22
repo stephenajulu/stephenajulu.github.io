@@ -6,6 +6,31 @@ title: Stephen Ajulu
 description: Stephen Ajulu is a Student, I.T Expert, Frond End Web Developer, Graphics/UI/UX Designer, Ethical Hacker/Pentester and a Cybersecurity Consultant. Here he showcases his skills, knowledge, education and work/portfolio
 keywords: stephen, ajulu, personal, stephen odero ajulu otieno, stephenajulu, jekyll, stephen ajulu, portfolio, odero, stephen odero ajulu, tech, cybersecurity, ajulu's thought's, blog, website, github pages, stephenajulu.github.io, web developer, graphic designer, I.T expert
 
+
+
+# Social Buttons
+social:
+  - title: "facebook"
+    url: "https://facebook.com/stephenajulu"
+  - title: "twitter"
+    url: "https://twitter.com/stephenajulu"
+  - title: "instagram"
+    url: "https://www.instagram.com/stephenajulu"
+  - title: "github"
+    url: "https://github.com/stephenajulu"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/stephenajulu/"
+  - title: "wordpress"
+    url: "https://ajulusthoughts.wordpress.com"
+  - title: "rss"
+    url: "/feed.xml"
+  - title: "bitcoin"
+    url: "https://www.blockchain.com/btc/address/1DJxuX44dLtTFbBXdaBZUpwhLEh2DLDP5w"
+  - title: "user-crown"
+    url: "https://wybemf.com/stephenajulu"
+  - title: "website"
+    url: "https://stephenajulu.com"
+
 # Build settings
 markdown: kramdown
 permalink: pretty
