@@ -22,6 +22,20 @@ My goal is to spread cybersecurity, ethical hacking, privacy and anonymity aware
 I am currently most interested in web applications, networks, cybersecurity, ethical hacking, android and technology in general.
 
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others).
+Future Ventures (Teach myself in 2019)
+
+    Scalable distributed systems (infrastructure, networks, microservices)
+    Machine Learning/AI
+    Image/Video processing
+    Cyber Security
+    Ethical Hacking
+    File servers / personal datacenter / NAS
+    Blockchain
+    Embedded Systems (IoT)
+    Electrical engineering
+    Full Stack Development
+    Backend
+    Android app and Software Development
 
 Go check out my blog [here](https://ajulusthoughts.wordpress.com). Topics range from Technology, Cybersecurity, Ethical Hacking, Privacy, Anonymity to Self Improvement, Career, Business, Fashion and Fitness
 <p><br></p>
