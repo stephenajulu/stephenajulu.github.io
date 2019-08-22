@@ -13,6 +13,7 @@ menu:
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 - {name: Gear, link: '/gear'}
+- {name: Shop, link: '/shop'}
 
 #-------------------------------
 # Google Analytics Section
