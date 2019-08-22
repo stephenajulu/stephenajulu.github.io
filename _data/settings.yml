@@ -12,7 +12,7 @@ menu:
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
-- {name: My Setup, link: '/setup'}
+- {name: Gear, link: '/gear'}
 
 #-------------------------------
 # Google Analytics Section
