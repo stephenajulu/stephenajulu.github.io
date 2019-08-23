@@ -25,6 +25,39 @@
       </script>  Stephen Ajulu</p>
     <br>
     <p align="center"><a href="https://ajulusthoughts.wordpress.com">V0</a>&nbsp; &bull; &nbsp;<a href="https://stephenajulu.com/v1">V1</a>&nbsp; &bull; &nbsp;<a href="https://stephenajulu.com/v2">V2</a>&nbsp; &bull; &nbsp;<a href="https://stephenajulu.com">V3</a></p>
+  // Registration of service worker
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+        navigator.serviceWorker.register("/sw.js").then(function(registration) {
+            // Registration was successful
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function(err) {
+            // registration failed :(
+            console.log('ServiceWorker registration failed: ', err);
+        });
+    });
+}
+else{
+    console.log('Service Workers not supported');
+}
+// Installation of service worker
+self.addEventListener('install', function(event) {
+  // Perform install steps
+  event.waitUntil(
+    caches.open(CACHE_NAME)
+      .then(function(cache) {
+        return cache.addAll(urlsToCache);
+      })
+  );
+});
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request, {ignoreSearch:true}).then(response => {
+      return response || fetch(event.request);
+    })
+  );
+});
+
   </div>
 </footer>
 <!-- /footer -->
