@@ -23,7 +23,7 @@ I am currently most interested in web applications, networks, cybersecurity, eth
 
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others).
 
-#### A LIST OF THINGS I WANT TO TEACH MYSELF IN 2019 - 2020
+##### A LIST OF THINGS I WANT TO TEACH MYSELF IN 2019 - 2020
 
 - Scalable distributed systems (infrastructure, networks, microservices)
 - Machine Learning/AI
