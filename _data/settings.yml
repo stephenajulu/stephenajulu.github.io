@@ -9,11 +9,10 @@ address: Nairobi, Kenya
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
 - {name: Shop, link: '/shop'}
 - {name: CV, link: '/cv'}
+- {name: Contact, link: '/contact'}
 
 #-------------------------------
 # Google Analytics Section
@@ -75,12 +74,6 @@ work-process:
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
     content : "After Designing and Developing i deliver the desired product/service to the client, with instructions how to operate the product/service"
-
-# My Team Section
-# team:
-#  - title : "Stephen Ajulu"
-#    image : "assets/images/team/member-1.png"
-#    designation : "I.T and Cybersecurity Consultant"
 
 #-------------------------------
 # Skills Section
