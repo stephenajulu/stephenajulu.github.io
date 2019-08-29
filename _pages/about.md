@@ -23,6 +23,7 @@ I am currently most interested in web applications, networks, cybersecurity, eth
 
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others).
 
+
 ##### A LIST OF THINGS I WANT TO TEACH MYSELF IN 2019 - 2020
 
 - Scalable distributed systems (infrastructure, networks, microservices)
@@ -110,8 +111,10 @@ I can help you build yours.
 - Tech Bag(small bag for carrying all these stuff)
 - Among others
 
+
+
 #### SOFTWARE I USE
-- Windows 10 Professional (Couldnt start this list without it but i am considering going to Arch or Debian)
+-- Windows 10 Professional (Couldnt start this list without it but i am considering going to Arch or Debian)
 - Powershell Preview 7 (It's like the terminal for Windows. I run scripts, build websites etc with it)
 - Firefox (Browser of choice but i do use Chrome once in a while)
 - Hyper (I us this as a "front" for powershell because i love how it looks and i can quickly switch to bash)
