@@ -11,8 +11,8 @@ menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Shop, link: '/shop'}
-- {name: CV, link: '/cv'}
 - {name: Contact, link: '/contact'}
+- {name: CV, link: '/cv'}
 
 #-------------------------------
 # Google Analytics Section
@@ -80,23 +80,19 @@ work-process:
 
 skills-title: Skills
 skills:
-- {name: Web Development, color: '#fdb157', value: '77%'}
-- {name: Graphics/UI/UX Design, color: '#9473e6', value: '65%'}
-- {name: Ethical Hacking, color: '#bdecf6', value: '60%'}
+- {name: Web Development & Search Engine Optimization, color: '#fdb157', value: '80%'}
+- {name: Graphics/UI/UX Design, color: '#9473e6', value: '55%'}
+- {name: Ethical Hacking & Cybersecurity, color: '#bdecf6', value: '75%'}
 - {name: Information Technology, color: '#ffbcaa', value: '80%'}
-- {name: Researching, color: '#1aff1a', value: '95%'}
-- {name: Cybersecurity, color: '#cc33ff', value: '76%'}
-- {name: Search Engine Optimization, color: '#ffff00', value: '76%'}
-- {name: Social Media Marketing, color: '#ff8533', value: '60%'}
 
 #-------------------------------
 # Exprerience Section
 
 experience-title: Experience
 experience:
-- {name: Monitoring & Evaluation Secretariate, icon: 'icon-1.png', date: 'Nov 2015 - Doc 2014', organization: 'Ministry of Devolution and Planning, Kenya'}
-- {name: M&E Secretariate/Tech Support, icon: 'icon-2.png', date: 'Nov 2015 - Dec 2015', organization: 'Ministry if Devolution and Planning, Kenya'}
-- {name: I.T & Cybersecurity Consultant, icon: 'icon-3.png', date: 'Nov 2016 - Present', organization: 'Gogan Investments, Ajulu Technologies and Alusa SS Investments'}
+- {name: Monitoring & Evaluation Secretariate, icon: 'icon-1.png', date: 'Nov 2015 - Dec 2015', organization: 'Ministry of Devolution and Planning, Kenya'}
+- {name: M&E Secretariate/Tech Support, icon: 'icon-2.png', date: 'Nov 2016 - Dec 2016', organization: 'Ministry if Devolution and Planning, Kenya'}
+- {name: I.T & Cybersecurity Consultant, icon: 'icon-3.png', date: 'Aug 2014 - Present', organization: 'Gogan Investments, Ajulu Technologies and Alusa SS Investments'}
 
 #-------------------------------
 # Education Section
@@ -123,13 +119,13 @@ services:
     name: Graphics/UI/UX Design,
     icon: ti-palette,
     description: 'I create logos, posters, flyers, business cards, interfaces among others.',
-    active: # Add true to select section
+    active: 
   }
 - {
     name: Web Development,
     icon: ti-world,
     description: 'I design and develop websites for individuals, small businesses(SMEs), companies and the government.',
-    active: true # Add true to select section
+    active: true # Add tr
   }
 - {
     name: Information Technology and Cybersecurity Consultation,
@@ -279,40 +275,6 @@ testimonial-items:
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO/Founder of Primetech Solutions"
     content : "I approached Stephen because i wanted a logo, he delivered beyond my expectations. Even my customers loved the logo design."
-
-#-------------------------------
-# Client Slider Section
-
-#client-slider-items:
-#  - logo: "assets/images/clients-logo/client-logo-1.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-2.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-3.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-4.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-5.png"
-#   url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-1.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-2.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-3.png"
-#    url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-4.png"
-#   url: "#"
-    
-#  - logo: "assets/images/clients-logo/client-logo-5.png"
-#    url: "#"
 
 #-------------------------------
 # Contact Section
