@@ -80,10 +80,9 @@ work-process:
 
 skills-title: Skills
 skills:
-- {name: Web Development & Search Engine Optimization, color: '#fdb157', value: '80%'}
-- {name: Graphics/UI/UX Design, color: '#9473e6', value: '55%'}
-- {name: Ethical Hacking & Cybersecurity, color: '#bdecf6', value: '75%'}
-- {name: Information Technology, color: '#ffbcaa', value: '80%'}
+- {name: Web Development & Search Engine Optimization, color: '#993299', value: '82%'}
+- {name: Graphics/UI/UX Design, color: '#BA3641', value: '55%'} # 9473e6
+- {name: Ethical Hacking & Cybersecurity, color: '#329932', value: '73%'}
 
 #-------------------------------
 # Exprerience Section
