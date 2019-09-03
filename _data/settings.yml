@@ -268,15 +268,6 @@ portfolio-items:
       - type: "website"
 
 #-------------------------------
-# Testimonials Section
-
-testimonial-items:
-  - name: "Morris Juno Ojwang"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO/Founder of Primetech Solutions"
-    content : "I approached Stephen because i wanted a logo, he delivered beyond my expectations. Even my customers loved the logo design."
-
-#-------------------------------
 # Contact Section
 
 contact-title: Contact Info
