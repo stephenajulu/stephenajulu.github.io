@@ -24,6 +24,9 @@ I am currently most interested in web applications, networks, cybersecurity, eth
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others).
 
 
+<a href="https://drive.google.com/file/d/1jYrPFdLm4Fw0Rc_mfBmhIe7UY4iLZIFA/view?usp=sharing" class="btn" role="button">View My Résumé</a>
+
+
 ##### A LIST OF THINGS I WANT TO TEACH MYSELF IN 2019 - 2020
 
 - Scalable distributed systems (infrastructure, networks, microservices)
@@ -63,8 +66,6 @@ I can help you build yours.
  
  To summarize this with one sentence: **Jekyll on GitHub Pages with Cloudflare DNS is faster than Wordpress, cheaper than Squarespace, and is more professional than Wix.**
 <p><br></p>
-
-<button name="button" class="btn" onclick="https://drive.google.com/file/d/1jYrPFdLm4Fw0Rc_mfBmhIe7UY4iLZIFA/view?usp=sharing">View My Résumé</button>
 
 <p><br></p>
 #### MY GEAR
