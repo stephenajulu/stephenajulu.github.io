@@ -64,7 +64,7 @@ I can help you build yours.
  To summarize this with one sentence: **Jekyll on GitHub Pages with Cloudflare DNS is faster than Wordpress, cheaper than Squarespace, and is more professional than Wix.**
 <p><br></p>
 
-<button name="button" onclick="https://drive.google.com/file/d/1jYrPFdLm4Fw0Rc_mfBmhIe7UY4iLZIFA/view?usp=sharing">View My Résumé</button>
+<button name="button" class="btn" onclick="https://drive.google.com/file/d/1jYrPFdLm4Fw0Rc_mfBmhIe7UY4iLZIFA/view?usp=sharing">View My Résumé</button>
 
 <p><br></p>
 #### MY GEAR
