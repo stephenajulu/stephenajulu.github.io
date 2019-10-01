@@ -135,32 +135,7 @@ services:
   }
 
 
-#-------------------------------
-# Services Section
 
-pricing-title: Pricing
-pricing:
-- {
-    name: Personal Website,
-    icon: ti-world,
-    description: 'Free Hosting, 20GB Storage, Free CDN plus DOS protection, Free SSL, Free Domain Name(*.com) for 1 year and 6 Months Support <br> for ksh. 3,500/=',
-    active: 
-  }
-- {
-    name: Startup Website,
-    icon: ti-world,
-    description: 'Free Hosting, 50G Storage, Free CDN plus DOS Protection, Free SSL, Domain Name, 12 Months Support and 80/100 Site Speed in Lighthouse and GTMetrics <br> for ksh. 10,000/=',
-    active: true # Add tr
-  }
-- {
-    name: Enterprise Website/Ecommerce,
-    icon: ti-world,
-    description: 'Paid Hosting, Unlimited secure storage, 24/7 phone support, Analytics, Advanced branding, Premium CDN and DOS Protection, 2 year Free Support, Unlimited Enterprise Domain Emails, Domain Name and Protection <br> from ksh. 20,000/= up to ksh. 500,000/=',
-    active: # Add true to select section
-  }
-  
-  
-  
 #-------------------------------
 # Portfolio (Section and Page)
 
