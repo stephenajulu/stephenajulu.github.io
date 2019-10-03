@@ -7,13 +7,13 @@ html {
   box-sizing: inherit;
 }
 
-.background {
+.background1 {
   padding: 0 25px 25px;
   position: relative;
   width: 100%;
 }
 
-.background::after {
+.background1::after {
   content: '';
   background: #60a9ff;
   background: -moz-linear-gradient(top, #60a9ff 0%, #4394f4 100%);
@@ -34,7 +34,7 @@ html {
   }
 }
 
-.container {
+.container1 {
   margin: 0 auto;
   padding: 50px 0 0;
   max-width: 960px;
