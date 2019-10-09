@@ -266,6 +266,62 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "website"
+      
+  - image : "assets/images/portfolio/Screenshot_2019-08-23 Ajulus Thoughts.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+
+  - image : "assets/images/portfolio/Screenshot_2019-08-23 Stephen Ajulu.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+
+  - image : "assets/images/portfolio/Screenshot_2019-08-23 Stephen Ajulu.png"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+      
+  - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Merch.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+     
+  - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Thoughts.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+     
+  - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Thoughtsheroku.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+      
+  - image : "assets/images/portfolio/Screenshot_2019-09-26 OwlSec Technologies.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+      
+  - image : "assets/images/portfolio/Screenshot_2019-09-26 Stephen Ajulu.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+   
+  - image : "assets/images/portfolio/Screenshot_2019-10-07 Ajulu's Thoughts.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+      
+  - image : "assets/images/portfolio/Screenshot_2019-10-07 Home - OwlSec Technologies.png"
+    url: "#"
+    portfolio-type:
+      - type: "website"
+      - type: "design"
+      
+  - image : "assets/images/portfolio/Screenshot_2019-10-07 { Stephen Odero Ajulu }.png"
+    url: "#"
+    portfolio-type:
+      - type: "website"
 
 #-------------------------------
 # Contact Section
