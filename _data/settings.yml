@@ -175,104 +175,60 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/website (1).jpg"
-    url: "#"
+  - image : "assets/images/portfolio/Screenshot_2019-08-23 Ajulus Thoughts (2).jpg"
+    url: "https://ajulusthoughts.wordpress.com"
     portfolio-type:
       - type: "website"
-      
-  - image : "assets/images/portfolio/website (2).jpg"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (3).jpg"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (4).jpg"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (5).png"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (6).png"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (7).png"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (8).png"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/website (9).png"
-    url: "#"
-    portfolio-type:
-      - type: "website"
-      
-  - image : "assets/images/portfolio/Screenshot_2019-08-23 Ajulus Thoughts.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "website"
+      - type: "design"
 
   - image : "assets/images/portfolio/Screenshot_2019-08-23 Stephen Ajulu.jpg"
-    url: "#"
+    url: "https://stephenajulu.com"
     portfolio-type:
       - type: "website"
 
   - image : "assets/images/portfolio/Screenshot_2019-08-23 Stephen Ajulu.png"
-    url: "#"
+    url: "https://stephenajulu.com/v0"
     portfolio-type:
       - type: "website"
       
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Merch.jpg"
-    url: "#"
+    url: "https://ajulusmerch.ecwid.com"
     portfolio-type:
-      - type: "website"
+      - type: "design"
      
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Thoughts.jpg"
-    url: "#"
+    url: "https://ajulusthoughts.github.io"
     portfolio-type:
       - type: "website"
      
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Thoughtsheroku.jpg"
-    url: "#"
+    url: "https://ajulusblog.herokuapp.com"
     portfolio-type:
       - type: "website"
       
   - image : "assets/images/portfolio/Screenshot_2019-09-26 OwlSec Technologies.jpg"
-    url: "#"
+    url: "https://owlsectechnologies.wordpress.com"
     portfolio-type:
-      - type: "website"
+      - type: "design"
       
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Stephen Ajulu.jpg"
-    url: "#"
+    url: "https://stephenajulu.com"
     portfolio-type:
       - type: "website"
    
   - image : "assets/images/portfolio/Screenshot_2019-10-07 Ajulu's Thoughts.jpg"
-    url: "#"
+    url: "https://ajulusblog.herokuapp.com"
     portfolio-type:
       - type: "website"
       
   - image : "assets/images/portfolio/Screenshot_2019-10-07 Home - OwlSec Technologies.png"
-    url: "#"
+    url: "https://owlsectechnologies.netlify.com"
     portfolio-type:
       - type: "website"
       - type: "design"
       
   - image : "assets/images/portfolio/Screenshot_2019-10-07 { Stephen Odero Ajulu }.png"
-    url: "#"
+    url: "https://stephenajulu.com/v2"
     portfolio-type:
       - type: "website"
 
