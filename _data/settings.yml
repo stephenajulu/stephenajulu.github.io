@@ -10,7 +10,7 @@ address: Nairobi, Kenya
 menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
-- {name: Shop, link: '/shop'}
+- {name: Blog, link: 'https://ajulusthoughts.wordpress.com'}
 - {name: Contact, link: '/contact'}
 - {name: CV, link: '/cv'}
 
