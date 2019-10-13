@@ -269,6 +269,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
+      
   - image : "assets/images/portfolio/jpng.png"
     url: "#"
     portfolio-type:
