@@ -229,6 +229,61 @@ portfolio-items:
     url: "https://stephenajulu.com/v2"
     portfolio-type:
       - type: "website"
+      
+  - image : "assets/images/portfolio/A.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/AJULU TECH PERFECT BLACK3.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/BROTEMU 1.8.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/falcks 4.JPG"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/IMG_20180410_224713.JPG"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/Primetech logo10.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/Untitled-2.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/unhtitled.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+  - image : "assets/images/portfolio/jpng.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/ajulu-channel-art-matte.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
+  - image : "assets/images/portfolio/Quevant estore1 transperent.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
 
 #-------------------------------
 # Contact Section
