@@ -260,7 +260,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
 
-  - image : "assets/images/portfolio/Untitled-2.jpg"
+  - image : "assets/images/portfolio/Untnitled.png"
     url: "#"
     portfolio-type:
       - type: "design"
