@@ -269,7 +269,12 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
-      
+
+  - image : "assets/images/portfolio/Untitled-2.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+
   - image : "assets/images/portfolio/jpng.png"
     url: "#"
     portfolio-type:
