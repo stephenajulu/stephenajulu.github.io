@@ -162,16 +162,16 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "GRAPHICS/UI/UX DESIGN",
+    title : "GRAPHICS DESIGN",
     type : "design"
   }
 - {
-    title : "WEB DEVELOPMENT",
+    title : "WEB DEVELOPMENT & DESIGN",
     type : "website"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "USER INTERFACE & EXPERIENCE",
+    type : "uiux"
   }
 
 portfolio-items:
@@ -179,7 +179,6 @@ portfolio-items:
     url: "https://ajulusthoughts.wordpress.com"
     portfolio-type:
       - type: "website"
-      - type: "design"
 
   - image : "assets/images/portfolio/Screenshot_2019-08-23 Stephen Ajulu.jpg"
     url: "https://stephenajulu.com"
@@ -194,7 +193,7 @@ portfolio-items:
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Merch.jpg"
     url: "https://ajulusmerch.ecwid.com"
     portfolio-type:
-      - type: "design"
+      - type: "website"
      
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Ajulu's Thoughts.jpg"
     url: "https://ajulusthoughts.github.io"
@@ -209,7 +208,7 @@ portfolio-items:
   - image : "assets/images/portfolio/Screenshot_2019-09-26 OwlSec Technologies.jpg"
     url: "https://owlsectechnologies.wordpress.com"
     portfolio-type:
-      - type: "design"
+      - type: "website"
       
   - image : "assets/images/portfolio/Screenshot_2019-09-26 Stephen Ajulu.jpg"
     url: "https://stephenajulu.com"
@@ -225,7 +224,6 @@ portfolio-items:
     url: "https://owlsectechnologies.netlify.com"
     portfolio-type:
       - type: "website"
-      - type: "design"
       
   - image : "assets/images/portfolio/Screenshot_2019-10-07 { Stephen Odero Ajulu }.png"
     url: "https://stephenajulu.com/v2"
