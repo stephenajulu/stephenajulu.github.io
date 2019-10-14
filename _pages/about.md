@@ -31,7 +31,7 @@ During my free time, i enjoy reading, playing games, blogging, researching(i bel
 
 - Scalable distributed systems (infrastructure, networks, microservices)
 - Machine Learning/AI
-- Image/Video processing
+⁓⁓- Image/Video processing⁓⁓
 - Cyber Security
 - Ethical Hacking
 - File servers / personal datacenter / NAS
@@ -43,7 +43,7 @@ During my free time, i enjoy reading, playing games, blogging, researching(i bel
 - Android app and Software Development
 - French
 - Docker and Kurbenetics (Not sure if that's how its spelt)
-- Progressive Web Applications
+⁓⁓- Progressive Web Applications⁓⁓
 - Flutter
 - Algorithms
    
