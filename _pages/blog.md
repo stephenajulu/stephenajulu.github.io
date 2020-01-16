@@ -9,4 +9,6 @@ title: Blog
 <br>
 <br>
 <br>
+<p style="text-align:center" align="center">
 <script src="http://feeds.feedburner.com/AjulusThoughts?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/AjulusThoughts"></a><br/>Powered by FeedBurner</p> </noscript>
+  </p>
