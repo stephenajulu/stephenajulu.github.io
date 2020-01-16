@@ -10,8 +10,8 @@ address: Nairobi, Kenya
 menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
-- {name: Blog, link: 'https://ajulusthoughts.wordpress.com'}
 - {name: Contact, link: '/contact'}
+- {name: Blog, link: '/blog'}
 
 #-------------------------------
 # Google Analytics Section
@@ -43,9 +43,10 @@ social:
 - {icon: "ti-twitter", link: "https://twitter.com/stephenajulu"}
 - {icon: "ti-github", link: "https://github.com/stephenajulu/"}
 - {icon: "ti-youtube", link: "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"}
-- {icon: "ti-reddit", link: "https://www.reddit.com/user/4julu"}
+- {icon: "ti-email", link: "mailto:ajulu@stephenajulu.com"}
 - {icon: "ti-wordpress", link: "https://ajulusthoughts.wordpress.com"}
-- {icon: "ti-medium", link: "https://medium.com/@stephenajulu"}
+- {icon: "ti-dribble", link: "https://dribbble.com/stephenajulu"}
+- {icon: "ti-pinterest", link: "https://pinterest.com/stephenajulu/"}
 
 #-------------------------------
 # About (Section and Page)
@@ -83,6 +84,7 @@ skills:
 - {name: Graphics/UI/UX Design, color: '#BA3641', value: '55%'} # 9473e6
 - {name: Ethical Hacking & Cybersecurity, color: '#329932', value: '73%'}
 - {name: Information Technology, color: '#193E71', value: '85%'}
+- {name: Social Media Managment and Marketing, color: '#57737' value: '89%'}
 
 #-------------------------------
 # Exprerience Section
