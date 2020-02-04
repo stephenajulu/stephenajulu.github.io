@@ -231,6 +231,11 @@ portfolio-items:
     portfolio-type:
       - type: "website"
       
+  - image : "assets/images/portfolio/Tech6.png"
+    url: "https://stephenajulu.com/v2"
+    portfolio-type:
+      - type: "website"
+      
   - image : "assets/images/portfolio/A.jpg"
     url: "#"
     portfolio-type:
@@ -290,7 +295,47 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
+      
+  - image : "assets/images/portfolio/My Post.png.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
 
+  - image : "assets/images/portfolio/My Post1.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/My Post10.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/My Post11.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/My Post5.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/My Post8.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/My Post9.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/My Post4.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
 
 #-------------------------------
 # Contact Section
